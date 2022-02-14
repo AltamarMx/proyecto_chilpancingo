@@ -1,0 +1,7 @@
+{
+   "created_at" : "20220214T142618Z",
+   "seed_file" : "../final.osm",
+   "steps" : [],
+   "updated_at" : "20220214T143321Z",
+   "weather_file" : "MEX_GRO_Chilpancingo.767620_TMYx.2004-2018.epw"
+}
